@@ -1,3 +1,9 @@
+#Demo -
+![Employee Management System (1)](https://github.com/user-attachments/assets/35850f62-393a-452e-9015-f04e55f164ac)
+
+#Library's Used -
+React,Vite, Material-UI (MUI), React Router DOM, Recharts, React Hook Form,Yup, Day.js
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
